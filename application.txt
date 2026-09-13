@@ -10,4 +10,7 @@ Product Catalog
 Product Search
 - Product can be searched by name.
 - Search results are displayed.
-- 
+
+Wishlisht
+- Products can be added to a wishlisht.
+- Wishlist items can be viewed separately.
