@@ -1,7 +1,13 @@
-
+ 
+E-Commerce Application
+ 
 Product Catalog
 - Product listing is available.
 - Product name and price are displayed.
 - Product category is displayed.
 - Product availability status is displayed.
 
+Product Search
+- Product can be searched by name.
+- Search results are displayed.
+- 
