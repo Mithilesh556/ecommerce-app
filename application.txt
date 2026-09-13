@@ -14,3 +14,9 @@ Product Search
 Pricing
 - Product prices can be updated.
 - Updated prices are reflected in the product catalog.
+
+Wishlisht
+- Products can be added to a wishlisht.
+- Wishlist items can be viewed separately.
+
+feature/wishlist
