@@ -44,3 +44,6 @@ Order Tracking
 - Customer can view order status.4
 - Order status is updated as the order progresses.
 
+Payment Processing
+- Customers can complete payments securely.
+- Payment status is recorded for each order.
