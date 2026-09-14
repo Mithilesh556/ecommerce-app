@@ -23,6 +23,7 @@ Wishlisht
 - Products can be added to a wishlisht.
 - Wishlist items can be viewed separately.
 
+<<<<<<< HEAD
 
 Customer support
 - Customer can view support information'
@@ -36,5 +37,10 @@ Customer Notifications
 Order Tracking
 - Customer can view order status.
 - Order status is updated as the order progresses.
-=======
->>>>>>> parent of 160bdc8 (H - Add Customer Notifications)
+
+feature/wishlist
+
+Order Tracking
+- Customer can view order status.4
+- Order status is updated as the order progresses.
+
