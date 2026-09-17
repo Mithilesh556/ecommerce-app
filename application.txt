@@ -1,16 +1,11 @@
-<<<<<<< HEAD
 E-Commerce Application
  
-=======
-
->>>>>>> c38f214 (B - Add product Catalog)
 Product Catalog
 - Product listing is available.
 - Product name and price are displayed.
 - Product category is displayed.
 - Product availability status is displayed.
 
-<<<<<<< HEAD
 Product Search
 - Product can be searched by name.
 - Search results are displayed.
@@ -23,12 +18,10 @@ Wishlisht
 - Products can be added to a wishlisht.
 - Wishlist items can be viewed separately.
 
-<<<<<<< HEAD
-
 Customer support
 - Customer can view support information'
 - Support request can be submitted.
-<<<<<<< HEAD
+
 
 Customer Notifications
 - Customers can receive order status notifictions.
